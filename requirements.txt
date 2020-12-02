@@ -1,0 +1,7 @@
+lyricsgenius==2.0.2
+youtube_dl==2020.9.20
+discord.py==1.5.1
+requests==2.24.0
+youtube_search==1.1.1
+discord==1.0.1
+python-dotenv==0.15.0
